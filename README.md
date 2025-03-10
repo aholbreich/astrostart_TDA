@@ -1,6 +1,10 @@
-# Astro + TailwindCSS project stater
+# Astro + TDA project stater
 
-A minimalistic Astro project starter. Using Astro 5, Tailwind 4. It also includes Apline JS.
+* **T**ailwind
+* **D**aisyUI
+* **A**lpineJS
+
+A minimalistic Astro project starter that's includes Astro 5, Tailwind 4 with DaisyUI 5. In terms of JavaScript this project include Apline JS.
 
 The purpose is the demonstration of the integration of the [listed Dependencies](#Dependencies) eg. Tailwind 4. 
 Also, it includes a few example components. Like functional opinionated mobile-first navigation component and _floating menu_ and SEO component to be used in Layouts.
@@ -46,8 +50,14 @@ pnpm dlx serve dist
 - Astro SEO
 - Astro MDX
 - Tailwindcss 4
+- Daisy UI 5
 - Alpine Js
 - Netlify
+
+## Configuration & Customization
+
+Simple configuration can be found in `src/lib/config.ts`
+There are just a few demonstration components, you can delete them, ignore them, adapt them whatever fist you.
 
 ## Collaboration
 
