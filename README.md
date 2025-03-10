@@ -10,7 +10,7 @@ The purpose is the demonstration of the integration of the [listed Dependencies]
 Also, it includes a few example components. Like functional opinionated mobile-first navigation component and _floating menu_ and SEO component to be used in Layouts.
 
 
-[Live Demo](https://astro-start-tailwind.vercel.app/)
+TODO: [Live Demo](https://astro-start-tailwind.vercel.app/)
 
 ## Usage
 
