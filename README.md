@@ -4,7 +4,7 @@
 * **D**aisyUI
 * **A**lpineJS
 
-A minimalistic Astro project starter that's includes Astro 5, Tailwind 4 with DaisyUI 5. In terms of JavaScript this project include Apline JS.
+A minimalistic Astro project starter that includes Astro 5, Tailwind 4 with DaisyUI 5. In terms of JavaScript this project include **Apline.js**.
 
 The purpose is the demonstration of the integration of the [listed Dependencies](#Dependencies) eg. Tailwind 4. 
 Also, it includes a few example components. Like functional opinionated mobile-first navigation component and _floating menu_ and SEO component to be used in Layouts.
@@ -17,7 +17,7 @@ TODO: [Live Demo](https://astro-start-tailwind.vercel.app/)
 Bootstrap your new project using this template with:
 
 ```bash
-pnpm create astro@latest --template aholbreich/astro_start_tailwind
+pnpm create astro@latest --template aholbreich/astrostart_TDA
 ```
 
 Alternatively clone this repo and just start coding. The following commands should be helpful:
@@ -51,7 +51,7 @@ pnpm dlx serve dist
 - Astro MDX
 - Tailwindcss 4
 - Daisy UI 5
-- Alpine Js
+- Alpine.js
 - Netlify
 
 ## Configuration & Customization
@@ -62,3 +62,7 @@ There are just a few demonstration components, you can delete them, ignore them,
 ## Collaboration
 
 Feel free to provide your feedback or feature requirements.
+
+### TODO
+
+* More Alpine.js examples, docu
