@@ -45,7 +45,7 @@ pnpm dlx serve dist
 
 ## Dependencies
 
-- Astro 5.6
+- Astro 5.7
 - Astro Icon
 - Astro SEO
 - Astro MDX
